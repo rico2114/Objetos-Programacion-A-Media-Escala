@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\CorpusLoader.o
+./release\Edge.o
+./release\EigenVectorCalculator.o
+./release\Image.o
+./release\ImageManager.o
+./release\NeuralNetwork.o
+./release\Vertex.o
+./release\moc_mainwindow.o
+);

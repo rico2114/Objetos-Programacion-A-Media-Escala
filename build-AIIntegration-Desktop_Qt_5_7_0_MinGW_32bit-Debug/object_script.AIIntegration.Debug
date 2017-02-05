@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\CorpusLoader.o
+./debug\Edge.o
+./debug\EigenVectorCalculator.o
+./debug\Image.o
+./debug\ImageManager.o
+./debug\NeuralNetwork.o
+./debug\Vertex.o
+./debug\moc_mainwindow.o
+);
